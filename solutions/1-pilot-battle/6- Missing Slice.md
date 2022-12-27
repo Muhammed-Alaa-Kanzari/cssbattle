@@ -1,6 +1,7 @@
 ## #6 Missing SLice
 
 [Link to the problem](https://cssbattle.dev/play/6)
+
 [Link To conic-gradient](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/conic-gradient#formal_syntax)
 
 ```
